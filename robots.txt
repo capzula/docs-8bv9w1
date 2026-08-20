@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ep72no.salamcuan.sbs/sitemap.xml
